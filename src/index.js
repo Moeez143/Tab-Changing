@@ -15,6 +15,7 @@ root.render(
 );
 
 // REACT 17
+// REACT 17
 // ReactDOM.render(
 //   <React.StrictMode>
 //     <App />
